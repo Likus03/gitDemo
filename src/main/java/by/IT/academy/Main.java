@@ -5,5 +5,6 @@ package by.IT.academy;
 public class Main {
     public static void main(String[] args) {
         System.out.printf("Поставьте зачет))");
+        System.out.printf("Поставьте зачет))");
     }
 }
